@@ -84,3 +84,6 @@
     }
 
 }());
+
+
+console.log('ui-frontend-repo edit');
